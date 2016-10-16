@@ -1,2 +1,1 @@
-Raspberry PI: pyserial, python3
-Arduino: Arduino Sensor Library, Arduino BME280 Library
+pyserial
